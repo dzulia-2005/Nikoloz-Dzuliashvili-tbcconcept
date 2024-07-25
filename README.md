@@ -23,7 +23,7 @@
 - JavaScript
 
 1. **demo website:**
-   https://tbcconcept.netlify.app
+   https://tbcconceptsweb.netlify.app
 
 ## Usage
 1.download this code
