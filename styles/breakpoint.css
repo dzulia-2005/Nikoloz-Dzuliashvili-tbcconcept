@@ -42,6 +42,9 @@
     .header_container {
         width: 85%;
     }
+    .medimgtxts {
+    padding: 82% 8% 0;
+    }
 }
 
 /* max-width 1024px */
