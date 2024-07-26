@@ -10,6 +10,16 @@
     }
 }
 
+@media (max-width:1500px){
+    .mobile-svg{
+        display: none;
+    }
+    .header_container{
+        margin-left: 4%;
+    }
+}
+
+
 
 /* max-width 1440px */
 @media  (max-width: 1440px) {
@@ -716,20 +726,16 @@
     }
 }
 
-@media (max-width:1500px){
-    .mobile-svg{
-        display: none;
-    }
-    .header_container{
-        margin-left: 4%;
-    }
-}
 
 
 
 @media (max-width:375px){
     .search_logo{
         display:none;
+    }
+    .arrow_link {
+        margin-right: 16%;
+        padding-left: 33%;
     }
 }
 
