@@ -1,3 +1,15 @@
+@media (max-width:1700px){
+    .mobile-svg{
+        display:none;
+    }
+}
+
+@media (max-width:1600px){
+    .mobile-svg{
+        display:none;
+    }
+}
+
 
 /* max-width 1440px */
 @media  (max-width: 1440px) {
@@ -714,13 +726,10 @@
 }
 
 
-@media (max-width:1600px){
-    .mobile-svg{
+
+@media (max-width:375px){
+    .search_logo{
         display:none;
     }
 }
-@media (max-width:1700px){
-    .mobile-svg{
-        display:none;
-    }
-}
+
