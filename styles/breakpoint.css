@@ -77,7 +77,7 @@
     }
 
     .foot {
-        padding-left: 12%;
+        padding-left: 0%;
     }
 
     .lang_toggle {
@@ -178,6 +178,22 @@
     .imgbody {
         width: 100%;
     }
+}
+
+@media   (max-width: 853px){
+    .header_container{
+        margin-left: 0%;
+    }
+
+    .img-mobile{
+        margin: 0 36px;
+    }
+
+    .tbcpic {
+        width: 20%;
+    }
+
+    
 }
 
 /* max-width 820px */
@@ -346,6 +362,10 @@
     .tbcpic {
         width: 95%;
         padding: 4% 32% 9%;
+    }
+
+    .breadcrumbs{
+        margin: -5% 3%;
     }
 }
 
@@ -687,5 +707,20 @@
 @media (max-width:1500px){
     .mobile-svg{
         display: none;
+    }
+    .header_container{
+        margin-left: 4%;
+    }
+}
+
+
+@media (max-width:1600px){
+    .mobile-svg{
+        display:none;
+    }
+}
+@media (max-width:1700px){
+    .mobile-svg{
+        display:none;
     }
 }
