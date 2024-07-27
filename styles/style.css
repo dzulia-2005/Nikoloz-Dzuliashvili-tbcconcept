@@ -689,7 +689,9 @@ img {
 }
 
 
-
+.mob_btntxt{
+    display: none;
+}
 
 
 
