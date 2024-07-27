@@ -1,7 +1,7 @@
 # TBC x USAID - React - technical assignment /tbcconcept
 
 
-#structures
+#structure/სტრუქტურა
 
 │
 ├── index.html
@@ -16,16 +16,16 @@
 │
 └── README.md
 
-## Technologies Used
+## Technologies Used/გამოყენებული ტექნოლოგიები
 
 - HTML 
 - CSS 
 - JavaScript
 
-1. **demo website:**
+1. **demo website**//საიტის დემო
    https://tbcconceptsweb.netlify.app
 
-## Usage
+## Usage/გამოყენება
 1.download this code
 2.Drop the file into visual studio code
 3.and click Go Live or click right button and select open with live server
