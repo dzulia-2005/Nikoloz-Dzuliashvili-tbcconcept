@@ -544,13 +544,65 @@
 
 /* max-width 414px */
 @media   (max-width: 414px) {
-    .img_mobile {
-        margin: 0 3% 0px 5%;
-    }
 
     .tbcpic {
         width: 21%;
         padding: 2% 9% 6%;
+    }
+
+    .img_mobile {  
+        margin-left: -2% !important;
+    }
+
+    
+
+    .get-app_content{
+        display: none;
+    }
+
+
+    .get-app_inner{
+       display: block !important;
+    }
+
+    .mob_btntxt{
+        display: block !important;
+    }
+
+
+    .img_mobile {
+    width: 84%;
+    height: 428px;
+    margin-left: 3%;
+    }
+
+    .mobtxt{
+        width: 366px;
+        font-size: 14px;
+        margin: 5% 0;
+    }
+
+    .mobbtn{
+        width: 80%;
+        height: 52px;
+        border: solid;
+        border-radius: 8px;
+        border-color: #007aff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #007aff;
+    }
+
+    .svgdow{
+        color: #007aff;
+        height: 19px;
+        width: 19px;
+    }
+
+    .heading-wrapper{
+        margin-bottom: 36px;
+        margin-top: 60px;
     }
 }
 
